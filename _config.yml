@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Toddy
-subtitle: 自信+坚持=Toddy
+title: 同程旅游国际机票前端团队
+subtitle:
 description:
-author: Toddy
-language: 
+author: 国际机票前端团队
+language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://toddy.wang
+url: http://tc-flight-int-web.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -63,12 +63,11 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-yilia
+theme: icarus
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://git.coding.net/toddywang/toddywang.gitcafe.io.git
+  repository: https://github.com/TC-Flight-Int-Web/tc-flight-int-web.github.io.git
   branch: master
-  message: hexo deploy
