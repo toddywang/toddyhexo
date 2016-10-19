@@ -69,5 +69,5 @@ theme: icarus
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/TC-Flight-Int-Web/tc-flight-int-web.github.io.git
+  repository: https://github.com/toddywang/toddywang.github.io.git
   branch: master
