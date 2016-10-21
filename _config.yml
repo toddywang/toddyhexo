@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 同程旅游国际机票前端团队
-subtitle:
-description:
-author: 国际机票前端团队
+title: 小T在加油
+subtitle: 
+description: 同程旅游，机票事业部前端，做最好的前端分享
+author: 小T在加油
 language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://tc-flight-int-web.github.io
+url: http://toddy.wang
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
