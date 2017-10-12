@@ -41,7 +41,7 @@ $ 打开对应目录文件【[绝对路径]\blog\source\_posts\hello-hexo.md】
 ```
 
 ##### 7. 打开markdown，默认情况
-![markdown默认情况](/img/王阳/img1.png)
+![markdown默认情况](source/img/王阳/img1.png)
 > 
   - title 文章标题
   - date 发布时间
@@ -49,11 +49,11 @@ $ 打开对应目录文件【[绝对路径]\blog\source\_posts\hello-hexo.md】
   - author 作者
   
 ##### 8. markdown语法书写
-![](/img/王阳/img2.png)
+![](source/img/王阳/img2.png)
 - 添加图片统一路径
-    ![保存图片路径](/img/王阳/img3.png) 
+    ![保存图片路径](source/img/王阳/img3.png) 
 - 图片添加的语法
-    ![图片markdown语法](/img/王阳/img4.png)
+    ![图片markdown语法](source/img/王阳/img4.png)
 
 ##### 9. 启动Hexo Server 本地查看
 ``` bash
