@@ -1,11 +1,3 @@
----
-title: Hexo书写博客
-date: 2016-06-23 09:12:39
-tags: 技术文档
-author: 王阳
-photos:
-- http://bruce.u.qiniudn.com/2013/11/27/reading/photos-0.jpg
----
 ## Hexo简介
 A fast, simple & powerful blog framework, powered by [Node.js](http://nodejs.org).
 
