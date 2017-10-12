@@ -51,9 +51,9 @@ $ 打开对应目录文件【[绝对路径]\blog\source\_posts\hello-hexo.md】
 ##### 8. markdown语法书写
 ![](source/img/王阳/img2.png)
 - 添加图片统一路径
-    ![保存图片路径](source/img/王阳/img3.png) 
+    ![](source/img/王阳/img3.png) 
 - 图片添加的语法
-    ![图片markdown语法](source/img/王阳/img4.png)
+    ![](source/img/王阳/img4.png)
 
 ##### 9. 启动Hexo Server 本地查看
 ``` bash
