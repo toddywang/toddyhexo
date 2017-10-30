@@ -2,16 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://toddy.wang/2017/10/27/node-base/</loc>
+    <loc>http://toddy.wang/2017/10/27/2017-10-27-babel-%E7%AE%80%E4%BB%8B/</loc>
     
-    <lastmod>2017-10-27T10:13:04.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://toddy.wang/2016/04/19/2016-04-19/</loc>
-    
-    <lastmod>2017-10-27T09:31:42.000Z</lastmod>
+    <lastmod>2017-10-30T11:07:17.000Z</lastmod>
     
   </url>
   
@@ -23,14 +16,21 @@
   </url>
   
   <url>
-    <loc>http://toddy.wang/2016/06/23/Hexo%E4%B9%A6%E5%86%99%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>http://toddy.wang/2016/07/01/Local-Storage/</loc>
     
     <lastmod>2017-10-27T09:31:42.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://toddy.wang/2016/07/01/Local-Storage/</loc>
+    <loc>http://toddy.wang/2016/04/19/2016-04-19/</loc>
+    
+    <lastmod>2017-10-27T09:31:42.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://toddy.wang/2016/06/23/Hexo%E4%B9%A6%E5%86%99%E5%8D%9A%E5%AE%A2/</loc>
     
     <lastmod>2017-10-27T09:31:42.000Z</lastmod>
     
