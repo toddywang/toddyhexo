@@ -12,8 +12,8 @@ author:
 
 - [node简单的安全防刷](/2017/11/06/node简单防刷)
 - javascript设计模式
-- [yield & yield*](./yield)
-- [webpack && webpack3](./webpack)
+- [yield & yield*](/2017/11/07/yield)
+- [webpack && webpack3](/2017/11/07/webpack)
 - babel
 - express
 - koa & koa2
